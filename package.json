@@ -1,0 +1,32 @@
+
+{
+  "name": "react-native-xsy-toast",
+  "version": "1.0.0",
+  "description": "An easy mongodb client for node.js based on native mongodb driver.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remobile/react-native-toast.git"
+  },
+  "keywords": [
+     "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "toast",
+    "position",
+    "remobile",
+    "mobile"
+  ],
+  "author": "zhwios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remobile/react-native-toast/issues"
+  }
+}
