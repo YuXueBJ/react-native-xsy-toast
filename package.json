@@ -2,7 +2,7 @@
 {
   "name": "react-native-xsy-toast",
   "version": "1.0.0",
-  "description": "An easy mongodb client for node.js based on native mongodb driver.",
+  "description": "A android like toast for react-native support for ios and android",
   "main": "index.js",
   "directories": {
     "example": "examples"
